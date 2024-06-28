@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'dcrm_video',
         'USER': 'postgres',
-        'PASSWORD': 'WorkspaceSecure',
+        'PASSWORD': 'PostGres',
         'HOST': 'localhost',
         'PORT': '',
         }
